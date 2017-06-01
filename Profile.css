@@ -1,0 +1,41 @@
+body{
+    text-align:center;
+    background-color: bisque;
+    font-family: sans-serifs;
+}
+header{
+     background-image: url(frosted-glass-2198953_960_720.jpg);
+    height: 300px;
+    margin-bottom: 60px;
+}
+
+li{
+    display: inline;
+    padding: 20px;
+    
+}
+a{
+    font-family: cursive;
+    font-size: 30px;
+    color: darkblue;
+    text-decoration: none;
+}
+
+ul{
+    background-color: azure;
+    height: 30px;
+}
+a:hover{
+    color: chartreuse;
+}
+       
+
+img{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 200px;
+    height:200px; 
+        border-color: crimson;
+        border-radius: 200px;    }
+
+
